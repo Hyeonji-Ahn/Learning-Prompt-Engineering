@@ -6,3 +6,7 @@ Things to install
 1. Python: 
 2. Dotenv: python -m pip install python-dotenv
 3. OpenAI: pip install --upgrade openai
+
+
+Some terminal
+1. how to erase .env from stage in git: git rm --cached .env
